@@ -14,7 +14,7 @@ export default function Home() {
                   <div className="grid grid-cols-1 md:grid-cols-3 pt-5 gap-4">
                      <div className="pt-14">
                         <div className='box-2 flex'>
-                           <Image src="/checkbox.png" alt="" width={30} height={30} priority />
+                           <Image src="/images/checkbox.png" alt="" width={30} height={30} priority />
                            <p className='pl-1 text-white text-2xl font-semibold font-poppins'>Expected Retirement Age</p>
                         </div>
                         <div className="border-t-2 border-white-500 pt-5 mt-2 ml-9"></div>
